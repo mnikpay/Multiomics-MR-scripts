@@ -1,0 +1,22 @@
+# Script to test wehther the probes identified through the co-localization step are causally associated with risk of CAD
+
+# Forward MR analysis
+gcta64 --bfile "your genotype file in plink format" \
+        --gsmr-file Probe.gs Outcome.gs \
+        --gsmr-direction 0 --out "name of your output file" 
+        
+# Reverse MR analysis         
+gcta64 --bfile "your genotype file in plink format" \
+        --gsmr-file Probe.gs Outcome.gs \
+        --gsmr-direction 1 --out "name of your output file"
+        
+        
+# Probe.gs contains the following information in one line
+"Name of the Probe"     "GWAS summary file for the probe in GSMR format"
+
+
+# Outcome.gs contains the following information in one line
+"Name of yout pheotype e.g. CAD"        "GWAS summary file for the your phenotype in GSMR format"
+ 
+ 
+ 
