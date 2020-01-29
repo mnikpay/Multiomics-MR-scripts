@@ -1,5 +1,8 @@
 # Multiomics-MR-scripts
-Scripts to do multiomics data analysis based on MR approach
+Scripts to do multiomics data analysis based on MR approach:
+- co-localization script
+- 2-sample MR  script
+
 
 Convert your GWAS summary data to GSMR and SMR formats prior to the analysis
 
