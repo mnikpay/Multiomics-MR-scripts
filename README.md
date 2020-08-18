@@ -9,6 +9,6 @@ GSMR manual: http://cnsgenomics.com/software/gcta/#Mendelianrandomisation
 
 SMR manual: https://cnsgenomics.com/software/smr/#DataManagement
 
-Then use the co-localization, and 2-sample MR scripts to find biomarkers that are causally associated with the risk of CAD within genomic regions known to be associated with CAD.
+Then use the co-localization, and 2-sample MR scripts to find biomarkers that are causally associated with a phenotyope within genomic regions known to be associated with the phenotype.
 
 If you want to use our input files, please contact me (majid.nikpay@gmail.com).
