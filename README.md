@@ -1,14 +1,15 @@
-# Multiomics-MR-scripts
-Scripts to do multiomics data analysis based on MR approach:
-- co-localization script
-- 2-sample MR  script
+# SNP-based multiomics scripts
+These are the scripts to do a SNP-based multiomics data analysis. Together, they can be used to combine different sets of omics data for molecular (Biomarker → Biomarker) and clinical (Biomarker → Trait) insight.
 
-Convert your GWAS summary data to GSMR and SMR formats prior to the analysis
+To do these analyses, first convert your GWAS summary data to the GSMR and the SMR formats:
 
 GSMR manual: http://cnsgenomics.com/software/gcta/#Mendelianrandomisation
 
 SMR manual: https://cnsgenomics.com/software/smr/#DataManagement
 
-Then use the co-localization, and 2-sample MR scripts to find biomarkers that are causally associated with a phenotyope within genomic regions known to be associated with the phenotype.
+Then use the co-localization, and 2-sample MR scripts to find biomarkers that are causally associated with a phenotyope within genomic regions that are consistently associated to both biomarker and phenotype (trait/biomarker).
 
-If you want to use our input files, please contact me (majid.nikpay@gmail.com).
+As for your bfile, you can use the genotype data from the 1000G:
+https://www.cog-genomics.org/plink/2.0/resources#1kg_phase3
+
+If there are any questions, please contact me (majid.nikpay@gmail.com).
