@@ -7,7 +7,7 @@ GSMR manual: http://cnsgenomics.com/software/gcta/#Mendelianrandomisation
 
 SMR manual: https://cnsgenomics.com/software/smr/#DataManagement
 
-Then use the co-localization, and the 2-sample MR scripts to find biomarkers that are causally associated with a phenotyope within genomic regions that are consistently associated to both biomarker and phenotype (trait/biomarker).
+Then use the co-localization, and the 2-sample MR scripts to find biomarkers that are causally associated with a phenotyope within genomic regions that are consistently associated to both biomarker (e.g. a molecular probe) and phenotype (trait/biomarker).
 
 As for your bfile, you can use the genotype data from the 1000G:
 
