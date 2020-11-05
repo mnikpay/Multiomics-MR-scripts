@@ -13,4 +13,4 @@ As for your bfile, you can use the genotype data from the 1000G:
 
 https://www.cog-genomics.org/plink/2.0/resources#1kg_phase3
 
-If there are any questions, please contact me (majid.nikpay@gmail.com).
+If you need any further information, please feel free to contact me (majid.nikpay@gmail.com).
