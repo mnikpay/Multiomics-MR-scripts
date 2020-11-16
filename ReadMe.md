@@ -1,5 +1,5 @@
 # SNP-based multiomics scripts
-These are the scripts to do a SNP-based multiomics data analysis. Together, they can be used to combine different sets of omics data for molecular (Biomarker → Biomarker) and clinical (Biomarker → Trait) insight.
+These are the scripts to do a SNP-based multiomics data analysis. Together, they can be used to combine different sets of omics data for molecular (Biomarker → Biomarker) and clinical (Biomarker → Phenotype) insight.
 
 To do these analyses, first convert your GWAS summary data to the GSMR and the SMR formats:
 
