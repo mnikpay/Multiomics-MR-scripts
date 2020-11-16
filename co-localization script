@@ -1,14 +1,14 @@
 # Sample script to do co-localization analysis in cis regions
 
 smr_Linux --bfile "your genotype file in plink format" \
-        --gwas-summary "your GWAS summary file for CAD in GSMR format" \
+        --gwas-summary "your GWAS summary file for a trait in GSMR format" \
         --beqtl-summary "your QTL data in SMR format" \
         --out "name of your output file"
         
 # Sample script to do co-localization analysis in trans regions
       
 smr_Linux --bfile "your genotype file in plink format" \
-        --gwas-summary "your GWAS summary file for CAD in GSMR format" \
+        --gwas-summary "your GWAS summary file for a trait in GSMR format" \
         --beqtl-summary "your QTL data in SMR format" \
         --trans --trans-wind 1000 \
         --out "name of your output file"
