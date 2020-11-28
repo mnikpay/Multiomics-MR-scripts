@@ -17,6 +17,8 @@ gcta64 --bfile "your genotype file in plink format" \
 
 # Outcome.gs contains the following information in one line
 "Name of yout pheotype e.g. CAD"        "GWAS summary file for the your phenotype in GSMR format"
- 
+
+# Data can be converted from SMR to GSMR format using the following command:  
+ smr_Linux --beqtl-summary "Input file" --query 1 --probe "Probe name" --out "name of your output file"
  
  
