@@ -1,4 +1,4 @@
-# Script to test wehther the probes identified through the co-localization step are causally associated with risk of CAD
+# Script to test wehther the probes identified through the co-localization step are causally associated with a trait
 
 # Forward MR analysis
 gcta64 --bfile "your genotype file in plink format" \
