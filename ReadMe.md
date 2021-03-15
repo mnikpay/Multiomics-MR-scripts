@@ -13,7 +13,7 @@ Link to the QTL data (input files):
 
 https://filr.ottawaheart.ca/ssf/s/readFile/share/1438/6705413317368203034/publicLink/QTL_data.zip
 
-Link to the QTL data from the SMR website:
+Several types of QTL data are also available from the SMR website:
 
 https://cnsgenomics.com/software/smr/#DataResource
 
