@@ -11,7 +11,7 @@ Then use the co-localization, and the 2-sample MR scripts to find biomarkers tha
 
 Link to the QTL data (input files):
 
-https://filr.ottawaheart.ca/ssf/s/readFile/share/1438/6705413317368203034/publicLink/QTL_data.zip
+https://zenodo.org/record/4271344
 
 Several types of QTL data are also available from the SMR website:
 
